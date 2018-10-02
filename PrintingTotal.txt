@@ -1,0 +1,42 @@
+This algorithm displays the total of three numbers.
+
+
+INPUT                        PROCESS                     OUTPUT
+--------------------------------------------------------------------------------------
+Num#1                    1)Prompt User for                Total.
+                           num1.
+						 2)Save Num#1 In 
+						  variable num1.
+						 3)Prompt User for 
+                           num2.
+						 4)Save Num#2 In 
+						  variable num2.
+						 5)Prompt User for 
+                           num3.
+						 6)Save Num#3 In 
+						  variable num3.
+						 7)Sum num1, num2 & num3.
+						  Print result in Total.
+						 8)Print Total.
+Num#2                            
+Num#3
+---------------------------------------------------------------------------------------
+START
+Define Total as Number
+Define Number as Num#1
+Define Number as Num#2
+Define Number as Num#3
+Print "enter first number"
+
+INPUT Num#1
+
+Print "enter second number"
+
+INPUT Num#2
+Print "enter third number"
+
+INPUT Num#3
+Total = Num#1 + Num#2 + Num#3
+Print result
+END
+

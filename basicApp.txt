@@ -1,0 +1,42 @@
+What this algorithm does is it will allow us to put any number, and add 5 to it.
+Then it will double the numbers so far we have and will allow us to subtract 7 
+from it. Finally it will display the result.
+
+
+INPUT                        PROCESS                     OUTPUT
+-----------------------------------------------------------------------------------------------
+Num#1                        1)Pormpt user Num#1         Total2.
+Num#2                        2)Save Num#1 In variable
+                               num1.
+Num#3(doubleIt)              3)Pormpt user Num#2
+Num#4(sub7FromIt)            4)Save Num#2 in 
+                               variable num2.
+							 5)Sum num1 & num2.
+							   put result in Total.
+							 6)double Total1
+							   put result in Total1.
+							 7)Subtract 7 from Total1
+							   print result in Total2.
+							 8)Print Total2.
+----------------------------------------------------------------------------------------------
+START
+Define Total2 as Number.
+Define Total1 as Number.
+Define Sum as Number.
+Define Num#1 as Number.
+Define Num#2 as Number.
+Print "Enter first number"
+INPUT Num#1.
+Print "Enter second number".
+INPUT Num#2.
+Sum = Num#1 + 5.
+Print Sum.
+Total1 = Sum * 2.
+Print Total1.
+Subtract = Total1 - 7.
+Print Subtract as Total2.
+End
+
+
+
+

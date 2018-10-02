@@ -1,0 +1,125 @@
+What this algorithm does is it will allow us to enter 10 number, and then it will add them, and 
+divide the sum by the their total number.
+
+
+INPUT                      PROCESS                         OUTPUT
+-----------------------------------------------------------------------------------------------------
+Num#1                    1)Prompt User for                Average.
+                           num1.
+						 2)Save Num#1 In 
+						  variable num1.
+						 3)Prompt User for 
+                           num2.
+						 4)Save Num#2 In 
+						  variable num2.
+						 5)Prompt User for 
+                           num3.
+						 6)Save Num#3 In 
+						  variable num3.
+						 7)Prompt User for                
+                           num4.
+						 8)Save Num#4 In 
+						  variable num4.
+						 9)Prompt User for 
+                           num5.
+						 10)Save Num#5 In 
+						  variable num5.
+						 11)Prompt User for 
+                           num6.
+						 12)Save Num#6 In 
+						  variable num6.
+						 13)Prompt User for                
+                           num7.
+						 14)Save Num#7 In 
+						  variable num7.
+						 15)Prompt User for 
+                           num8.
+						 16)Save Num#8 In 
+						  variable num8.
+						 17)Prompt User for 
+                           num9.
+						 18)Save Num#9 In 
+						  variable num9.
+						 19)Prompt User for 
+                           num10.
+						 20)Save Num#10 In 
+						  variable num10.
+						 21)Sum Num#1,Num#2, Num#3
+						  Num#4, Num#5, Num#6, Num#7,
+						  Num#8, Num#9 & Num#10.
+						  Print result in Total.
+						 22)Divide Total by 10.
+							print result as Average.
+						 22) Print Average.
+Num#2
+Num#3
+Num#4
+Num#5
+Num#6
+Num#7
+Num#8
+Num#9
+Num#10
+---------------------------------------------------------------------------------------------------
+START
+Define Average as Number
+Define Total as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Difine Num#1 as Number
+Print "enter first number"
+
+INPUT Num#1
+
+Print "enter second number"
+
+INPUT Num#2
+
+Print "enter third number"
+
+INPUT Num#3
+
+Print "enter forth number"
+
+INPUT Num#4
+
+Print "enter fifth number"
+
+INPUT Num#5
+
+Print "enter sixth number"
+
+INPUT Num#6
+
+Print "enter 7th number"
+
+INPUT Num#7
+
+Print "enter 8th number"
+
+INPUT Num#8
+
+Print "enter 9th number"
+
+INPUT Num#9
+
+Print "enter 10th number"
+
+INPUT Num#10
+
+Total = Num#1 + Num#2 + Num#3 + Num#4 + Num#5 +
+		Num#6 + Num#7 + Num#8 + Num#8 + Num#9 + Num#10
+Print result
+
+Average = Total/10
+
+Print Average
+
+END
